@@ -26,3 +26,16 @@ Michelle Zamora
 mzamora@au1.ibm.com
 Head of Marketing
 
+Getting the credentials:
+Log in to Bluemix at https://bluemix.net.
+From the service dashboard, click Service credentials.
+Click View credentials under Actions.
+Copy username and password (or api_key for Visual Recognition).
+
+Workspace ID:
+go to the workspaces dashboard
+https://watson-conversation.ng.bluemix.net/us-south/96bfcca3-1cf2-4321-a9f0-8ab9d7151371/workspaces
+click the kebab menu on the instance I want. this will flip the tile and show the workspace ID.
+
+
+
