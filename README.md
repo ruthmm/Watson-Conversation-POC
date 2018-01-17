@@ -6,7 +6,7 @@ https://watson-conversation.ng.bluemix.net/us-south/96bfcca3-1cf2-4321-a9f0-8ab9
 
 login: email and pw
 
-IBM Cloud console dashboard
+IBM Cloud console
 https://console.bluemix.net/dashboard/watson
 https://console.bluemix.net/dashboard/apps
 
