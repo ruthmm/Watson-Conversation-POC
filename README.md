@@ -12,6 +12,9 @@ https://console.bluemix.net/dashboard/watson
 notes on collaboration
 https://www.ibm.com/developerworks/community/blogs/hickmat/entry/Managing_Watson_Conversation_Workspaces?lang=en
 
+setting up the cloud environment
+https://console.bluemix.net/docs/admin/patterns.html#patterns
+
 IBM Contacts:
 Craig Murphy
 craigmur@au1.ibm.com
