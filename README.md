@@ -4,7 +4,7 @@ code for initial Conversation POC built in IMB Watson
 workspace:
 https://watson-conversation.ng.bluemix.net/us-south/96bfcca3-1cf2-4321-a9f0-8ab9d7151371/workspaces
 
-login: syfte email and usual pw
+login: email and pw
 
 IBM Cloud dashboard
 https://console.bluemix.net/dashboard/watson
